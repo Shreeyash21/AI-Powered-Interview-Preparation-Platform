@@ -1,0 +1,11 @@
+{
+  "name": "AI Interview Coach",
+  "description": "Interactive AI interview preparation platform with real-time video emotion analysis, voice conversational AI, coding sandbox, resume parsing, and personalized analytics reports.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
