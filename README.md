@@ -251,14 +251,9 @@ Contributions are welcome.
 
 If you like this project, give it a ⭐ on GitHub.
 
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
 
 ---
 
 # 👨‍💻 Author
 
-Developed by Your Name
+Developed by SHREEYASH TAWARE
